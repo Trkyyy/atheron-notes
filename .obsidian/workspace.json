@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Pre-veil technology.md",
+                "file": "Jobs/5.5. Meeting with the Crimson Cartel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pre-veil technology"
+              "title": "5.5. Meeting with the Crimson Cartel"
             }
           }
         ]
@@ -183,12 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "2927d7851e86559a",
+  "active": "def3d0877c09184a",
   "lastOpenFiles": [
+    "General/Pre-veil technology.md",
     "atheron-notes",
     "General/The Winter Regent (Aurelian Frostmark).md",
     "Jobs/5.5. Meeting with the Crimson Cartel.md",
-    "General/Pre-veil technology.md",
     "The Winter Regents history.md",
     "Pre-veil artifacts.md",
     "Jobs/5. Frostviel Gala.md",
