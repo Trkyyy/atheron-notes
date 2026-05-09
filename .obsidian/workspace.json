@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "e64b18cf1e81dcf0",
+    "id": "3f8a83dffe922b3d",
     "type": "split",
     "children": [
       {
-        "id": "4586a8dccc1bddb6",
+        "id": "7550d7a2eab80055",
         "type": "tabs",
         "children": [
           {
-            "id": "def3d0877c09184a",
+            "id": "912b64a38d08ad5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs/5.5. Meeting with the Crimson Cartel.md",
+                "file": "Jobs/11. Mining for the Cyclops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.5. Meeting with the Crimson Cartel"
-            }
-          },
-          {
-            "id": "a31b7763019aa9ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/8. Rough Seas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Rough Seas"
+              "title": "11. Mining for the Cyclops"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c74dcf59a8aeab85",
+    "id": "3a573fcb2d86a498",
     "type": "split",
     "children": [
       {
-        "id": "f3fafce6d92d9e78",
+        "id": "939b12ef888b5f17",
         "type": "tabs",
         "children": [
           {
-            "id": "2927d7851e86559a",
+            "id": "10cdd36ec844b842",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +48,12 @@
             }
           },
           {
-            "id": "840cf9af7f247a84",
+            "id": "3e6a89804766f0ce",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "vial",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "9648ff1288e6d229",
+            "id": "cf07e2daad3cf4ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 300
   },
   "right": {
-    "id": "8355f57d46cabb23",
+    "id": "34bcb1b9d4831344",
     "type": "split",
     "children": [
       {
-        "id": "f2a068ee9d085484",
+        "id": "b1422a83012c5ec7",
         "type": "tabs",
         "children": [
           {
-            "id": "1def9ed362142a5e",
+            "id": "6759b0c1a069248d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/5. Frostviel Gala.md",
+                "file": "Jobs/11. Mining for the Cyclops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. Frostviel Gala"
+              "title": "Backlinks for 11. Mining for the Cyclops"
             }
           },
           {
-            "id": "4600d27282443e4a",
+            "id": "713c8767e1b33fc3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/5. Frostviel Gala.md",
+                "file": "Jobs/11. Mining for the Cyclops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Frostviel Gala"
+              "title": "Outgoing links from 11. Mining for the Cyclops"
             }
           },
           {
-            "id": "b0fe7b37755e701c",
+            "id": "5fde27b7f81bf2fe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +137,7 @@
             }
           },
           {
-            "id": "cdee8b391370d099",
+            "id": "f6bd9de710f9b124",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,18 +151,18 @@
             }
           },
           {
-            "id": "fd620f7d3d3472e2",
+            "id": "8fed293c91114584",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/5. Frostviel Gala.md",
+                "file": "Jobs/11. Mining for the Cyclops.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Frostviel Gala"
+              "title": "Outline of 11. Mining for the Cyclops"
             }
           }
         ]
@@ -198,41 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a31b7763019aa9ef",
+  "active": "10cdd36ec844b842",
   "lastOpenFiles": [
-    "Pasted image 20260228132150.png",
-    "Pasted image 20260228122119.png",
-    "Jobs/7. Looking for clues.md",
-    "Jobs/8. Rough Seas.md",
-    "Pasted image 20260214145056.png",
-    "Pasted image 20260214140325.png",
-    "Pasted image 20260214140317.png",
-    "Pasted image 20260214134954.png",
-    "Pasted image 20260214135429.png",
-    "Pasted image 20260131130208.png",
-    "Players Guide to Atheron.pdf",
-    "YelenFormal.png",
-    "TheParty.png",
-    "README.md",
-    "General/The Winter Regent (Aurelian Frostmark).md",
-    "Jobs/6. Exploring the infinite.md",
-    "Characers/Yelen Luckypeak.md",
-    "General/Pre-veil technology.md",
-    "Jobs/5.5. Meeting with the Crimson Cartel.md",
-    "Characers",
-    "General/Chaos touched beasts.md",
-    "atheron-notes",
-    "The Winter Regents history.md",
-    "Pre-veil artifacts.md",
-    "Jobs/5. Frostviel Gala.md",
-    "Jobs/4. Gutter King.md",
-    "Jobs/1. Meeting the party.md",
-    "Jobs/3. Dock strikes.md",
-    "Jobs/2. Varun Manor.md",
-    "Welcome.md",
-    "General",
-    "Organisations",
-    "Jobs",
-    "desktop.ini"
+    "Jobs/10. Into the mountains.md",
+    "Jobs/9. Rough Seas.md"
   ]
 }
