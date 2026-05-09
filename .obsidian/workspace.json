@@ -11,14 +11,12 @@
             "id": "912b64a38d08ad5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Jobs/11. Mining for the Cyclops.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/YelenFormal.png"
               },
-              "icon": "lucide-file",
-              "title": "11. Mining for the Cyclops"
+              "icon": "lucide-image",
+              "title": "YelenFormal"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/11. Mining for the Cyclops.md",
+                "file": "Images/YelenFormal.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11. Mining for the Cyclops"
+              "title": "Backlinks for YelenFormal"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/11. Mining for the Cyclops.md",
+                "file": "Images/YelenFormal.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11. Mining for the Cyclops"
+              "title": "Outgoing links from YelenFormal"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/11. Mining for the Cyclops.md",
+                "file": "Images/YelenFormal.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11. Mining for the Cyclops"
+              "title": "Outline of YelenFormal"
             }
           }
         ]
@@ -185,6 +183,9 @@
   },
   "active": "10cdd36ec844b842",
   "lastOpenFiles": [
+    "Images/Pasted image 20260314151921.png",
+    "Jobs/11. Mining for the Cyclops.md",
+    "Images",
     "Jobs/10. Into the mountains.md",
     "Jobs/9. Rough Seas.md"
   ]
