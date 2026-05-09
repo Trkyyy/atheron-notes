@@ -11,12 +11,14 @@
             "id": "912b64a38d08ad5b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/YelenFormal.png"
+                "file": "Jobs/12. Getting bling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "YelenFormal"
+              "icon": "lucide-file",
+              "title": "12. Getting bling"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/YelenFormal.png",
+                "file": "Jobs/12. Getting bling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for YelenFormal"
+              "title": "Backlinks for 12. Getting bling"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/YelenFormal.png",
+                "file": "Jobs/12. Getting bling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from YelenFormal"
+              "title": "Outgoing links from 12. Getting bling"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/YelenFormal.png",
+                "file": "Jobs/12. Getting bling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of YelenFormal"
+              "title": "Outline of 12. Getting bling"
             }
           }
         ]
@@ -181,8 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "10cdd36ec844b842",
+  "active": "912b64a38d08ad5b",
   "lastOpenFiles": [
+    "Images/YelenFormal.png",
+    "Jobs/12. Getting bling.md",
     "Images/Pasted image 20260314151921.png",
     "Jobs/11. Mining for the Cyclops.md",
     "Images",
