@@ -1,6 +1,9 @@
 - The term `Winter` is pre-veil
 	- Perhaps he is super old?
 - Apparently killed in a battle 300 years ago (and yet he persists)
+- Current Winter Regent wears a mask:
+	- White, fully covering his face. 
+	- It has slight indents for the shape of a face, but no intricate details
 
 ## Frostviel Gala
 - Takes everyone hostage
