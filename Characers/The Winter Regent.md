@@ -1,3 +1,4 @@
+- Aurelian Frostmark is possibly the current one
 - The term `Winter` is pre-veil
 	- Perhaps he is super old?
 - Apparently killed in a battle 300 years ago (and yet he persists)
