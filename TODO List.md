@@ -1,0 +1,5 @@
+- [ ] Investigate Helain Voss' death
+- [ ] Investigate the large number of disappearance's 
+- [ ] [Caldrake](Caldrake)
+	- [ ] Find him
+	- [ ] Find his rejected notes

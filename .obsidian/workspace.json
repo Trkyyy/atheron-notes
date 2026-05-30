@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce67e87ee52c7be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/5.5. Meeting with the Crimson Cartel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.5. Meeting with the Crimson Cartel"
-            }
-          },
-          {
             "id": "248d9e8c00184207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characers/Yelen Luckypeak.md",
+                "file": "Sessions/14. Back in Corsava.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yelen Luckypeak"
+              "title": "14. Back in Corsava"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Winter Regent",
+                "query": "seven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,17 +185,28 @@
   },
   "active": "248d9e8c00184207",
   "lastOpenFiles": [
-    "Jobs/13. We killed the Winter Regent forever!!!!.md",
-    "Jobs/12. Getting bling.md",
-    "Jobs/11. Mining for the Cyclops.md",
-    "Characers/The Winter Regent.md",
-    "Jobs/5.5. Meeting with the Crimson Cartel.md",
-    "Jobs/10. Into the mountains.md",
+    "TODO List.md",
+    "Sessions/14. Back in Corsava.md",
+    "Sessions/10. Into the mountains.md",
+    "Sessions/13. We killed the Winter Regent forever!!!!.md",
     "Characers/Shadow.md",
-    "Jobs/7. Looking for clues.md",
+    "Characers/The Winter Regent.md",
+    "Sessions/12. Getting bling.md",
+    "Sessions/5.5. Meeting with the Crimson Cartel.md",
+    "Sessions/6. Exploring the infinite.md",
+    "Players Guide to Atheron.pdf",
+    "Characers/Caldrake.md",
+    "General/Pre-veil technology.md",
+    "the Infinite.md",
+    "Sessions/9. Emeliano is decead.md",
+    "Sessions/7. Looking for clues.md",
+    "Sessions/5. Frostviel Gala.md",
+    "Sessions/11. Mining for the Cyclops.md",
+    "Sessions/8. Rough Seas.md",
+    "README.md",
+    "Characers/Yelen Luckypeak.md",
     "Images/YelenFormal.png",
     "Images/Pasted image 20260314151921.png",
-    "Images",
-    "Jobs/9. Rough Seas.md"
+    "Images"
   ]
 }
