@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/14. Back in Corsava.md",
+                "file": "Character/Caldrake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Back in Corsava"
+              "title": "Caldrake"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "248d9e8c00184207",
   "lastOpenFiles": [
-    "TODO List.md",
+    "Character/Shadow.md",
+    "Character/The Winter Regent.md",
+    "Character/Yelen Luckypeak.md",
+    "Character/Caldrake.md",
     "Sessions/14. Back in Corsava.md",
+    "scripts/collate_characters.py",
+    "Character",
+    "scripts/collate-characters.ps1",
+    "scripts",
+    "TODO List.md",
     "Sessions/10. Into the mountains.md",
     "Sessions/13. We killed the Winter Regent forever!!!!.md",
     "Characers/Shadow.md",
