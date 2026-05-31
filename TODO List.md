@@ -3,3 +3,4 @@
 - [ ] [Caldrake](Caldrake)
 	- [ ] Find him
 	- [ ] Find his rejected notes
+	- [ ] The winter regent stole the matrix, which Caldrake wanted, maybe we should ask the corpse we have if it knows anything?
