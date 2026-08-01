@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/15. Downtime in Corsava.md",
+                "file": "Sessions/16. The brain of Liam Nadu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Downtime in Corsava"
+              "title": "16. The brain of Liam Nadu"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "seven",
+                "query": "monar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,18 +185,20 @@
   },
   "active": "248d9e8c00184207",
   "lastOpenFiles": [
-    "Characers/Liam Nadu.md",
+    "Sessions/14. Back in Corsava.md",
+    "Sessions/16. The brain of Liam Nadu.md",
+    "collated/factions/monarch-five-thrones.md",
+    "collated/factions/_index.md",
     "Sessions/15. Downtime in Corsava.md",
+    "Characers/Liam Nadu.md",
     "Sessions/3. Dock strikes.md",
     "Sessions/2. Varun Manor.md",
     "Sessions/4. Gutter King.md",
-    "Sessions/14. Back in Corsava.md",
     "Pasted image 20260620113053.png",
     "Pasted image 20260620113033.png",
     "collated/meta/unresolved-questions.md",
     "collated/characters/caldrake.md",
     "collated/factions/the-twelve.md",
-    "collated/factions/monarch-five-thrones.md",
     "collated/timeline/campaign-timeline.md",
     "collated/items/winter-regent-mask.md",
     "collated/items/_index.md",
@@ -211,8 +213,6 @@
     "collated/organisations/auric-council.md",
     "collated/locations/winter-regent-realm.md",
     "collated/locations/_index.md",
-    "collated/locations/the-last-word.md",
-    "collated/locations/vaelors-wound.md",
     "collated/timeline",
     "collated/items",
     "collated/meta",
