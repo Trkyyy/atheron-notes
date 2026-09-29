@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce67e87ee52c7be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jobs/5.5. Meeting with the Crimson Cartel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.5. Meeting with the Crimson Cartel"
-            }
-          },
-          {
             "id": "248d9e8c00184207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/16. The brain of Liam Nadu.md",
+                "file": "Sessions/18. Chaos Cola™.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. The brain of Liam Nadu"
-            }
-          },
-          {
-            "id": "6dd00c1a676872eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/17. Vials of T-Rex bath water.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17. Vials of T-Rex bath water"
+              "title": "18. Chaos Cola™"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Varun",
+                "query": "lera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,49 +185,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "6dd00c1a676872eb",
+  "active": "248d9e8c00184207",
   "lastOpenFiles": [
-    "Sessions/15. Downtime in Corsava.md",
-    "Sessions/16. The brain of Liam Nadu.md",
-    "Sessions/17. Vials of T-Rex bath water.md",
-    "Pasted image 20260912105035.png",
-    "Pasted image 20260620113053.png",
-    "Pasted image 20260801122419.png",
-    "Pasted image 20260801121433.png",
+    "Pasted image 20260926112224.png",
+    "THE CORSAVA CHRONICLE - 2nd Highsun 1128.pdf",
+    "Sessions/18. Chaos Cola™.md",
+    "Untitled.base",
     "Sessions/3. Dock strikes.md",
-    "collated/timeline/campaign-timeline.md",
-    "Sessions/2. Varun Manor.md",
-    "Sessions/1. Meeting the party.md",
+    "Sessions/17. Vials of T-Rex bath water.md",
+    "Sessions/16. The brain of Liam Nadu.md",
+    "Pasted image 20260912105035.png",
+    "Pasted image 20260801122419.png",
     "Sessions/14. Back in Corsava.md",
-    "Characers/The Winter Regent.md",
-    "Characers/Yelen Luckypeak.md",
-    "collated/organisations/_index.md",
+    "collated/factions/monarch-five-thrones.md",
+    "collated/factions/_index.md",
+    "Sessions/15. Downtime in Corsava.md",
+    "Characers/Liam Nadu.md",
+    "Sessions/2. Varun Manor.md",
+    "Sessions/4. Gutter King.md",
+    "Pasted image 20260620113053.png",
+    "Pasted image 20260620113033.png",
+    "collated/meta/unresolved-questions.md",
+    "collated/characters/caldrake.md",
+    "collated/factions/the-twelve.md",
+    "collated/timeline/campaign-timeline.md",
+    "collated/items/winter-regent-mask.md",
+    "collated/items/_index.md",
+    "collated/items/the-matrix.md",
+    "collated/items/rings-of-cold-protection.md",
+    "collated/items/the-infinite.md",
+    "collated/items/crown-split-coin.md",
     "collated/organisations/lightbringers.md",
+    "collated/organisations/_index.md",
     "collated/organisations/golden-sails.md",
     "collated/organisations/crimson-consortium.md",
-    "collated/organisations/auric-council.md",
-    "collated/meta/unresolved-questions.md",
-    "collated/locations/_index.md",
-    "collated/locations/winter-regent-realm.md",
-    "collated/locations/vaelors-wound.md",
-    "collated/locations/the-last-word.md",
-    "collated/locations/corsava-city.md",
-    "collated/items/_index.md",
-    "collated/items/winter-regent-mask.md",
-    "collated/items/the-matrix.md",
-    "collated/items/the-infinite.md",
-    "collated/items/rings-of-cold-protection.md",
     "collated/timeline",
-    "collated/organisations",
-    "collated/meta",
-    "collated/locations",
     "collated/items",
-    "collated/factions",
+    "collated/meta",
+    "collated/organisations",
+    "collated/locations",
     "collated/countries",
     "collated/events",
-    "collated/characters",
-    "collated",
-    "Pasted image 20260620113033.png",
+    "collated/factions",
     "Images/YelenFormal.png",
     "Images/Pasted image 20260314151921.png"
   ]
